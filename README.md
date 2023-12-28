@@ -1,1 +1,1 @@
-# Fooocus-discord-autopublish--docker
+# Fooocus-discord-autopublish-docker
