@@ -18,7 +18,7 @@ if not CHANNEL_ID:
 else:
     CHANNEL_ID = int(CHANNEL_ID)  # Convertir en entier
 
-BASE_DIRECTORY = "/workspace/foocus/Fooocus/outputs/"
+BASE_DIRECTORY = "/Fooocus/outputs/"
 
 intents = discord.Intents.default()
 intents.members = True
